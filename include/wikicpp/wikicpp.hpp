@@ -1,6 +1,6 @@
 #pragma once
 
-#include
+#include "wikicpp/exceptions.hpp"
 
 #define WIKICPP_VERSION_MAJOR 0
 #define WIKICPP_VERSION_MINOR 1
