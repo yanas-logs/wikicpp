@@ -2,6 +2,7 @@
 
 #include "wikicpp/exceptions.hpp"
 #include "wikicpp/utils/json.hpp"
+#include "wikicpp/client.hpp"
 
 #define WIKICPP_VERSION_MAJOR 0
 #define WIKICPP_VERSION_MINOR 1
